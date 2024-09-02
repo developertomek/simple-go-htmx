@@ -1,0 +1,1 @@
+This repository is a basic setup to experiment with HTMX, a lightweight library that enables you to add dynamic behaviors to your HTML using simple attributes.
